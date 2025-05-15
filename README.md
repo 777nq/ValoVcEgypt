@@ -63,7 +63,7 @@ This OpenVPN configuration tunnels your connection through an optimized server t
 
 ## 💬 Support / Help
 
-Open an [Issue](https://github.com/YOUR_USERNAME/YOUR_REPO/issues) if you need help or want to suggest improvements.
+Open an [Issue](https://github.com/777nq/ValoVcEgypt/issues) if you need help or want to suggest improvements.
 
 ---
 
