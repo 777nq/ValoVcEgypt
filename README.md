@@ -1,82 +1,93 @@
-# 🔊 Voice Chat Bypass for Egypt (OpenVPN)
+# 🚀 EGYPT Voice Chat Bypass (OpenVPN) 🇪🇬
 
-**🎧 Say goodbye to blocked voice chats in Egypt!**  
-This simple and effective solution uses **OpenVPN** to bypass restrictions and allow smooth voice communication in games and apps like:
+A clean, lightweight **OpenVPN** setup that fixes voice chat issues for users in **Egypt**. This configuration helps you bypass ISP restrictions so apps and games can use voice communication normally.
 
-- Discord
-- Valorant
-- PUBG
-- Fortnite
-- GTA 5 RP
-- And more!
+### ✅ Supported Apps and Games
 
----
-
-## 🌍 Why You Need This
-
-In Egypt, many ISPs block or limit voice communication ports, making it hard to talk to friends or teammates in games and apps.  
-This OpenVPN configuration tunnels your connection through an optimized server that allows unrestricted voice traffic.
+| App/Game | Status |
+| :--- | :---: |
+| **Discord** | ✔️ |
+| **Valorant** | ✔️ |
+| **PUBG** | ✔️ |
+| **Fortnite** | ✔️ |
+| **GTA 5 RP** | ✔️ |
+| **RS6X** | ✔️ |
 
 ---
 
-## 📦 What's Inside
+## 🌍 Why This Exists
 
-- ✅ `Valorant .ovpn` – Pre-configured OpenVPN file
-- 🔒 Safe and lightweight – No logs, no bloat
-- 💬 Works with any app that uses voice chat
-
----
-
-## ⚙️ How to Use (Step-by-Step)
-
-### 🔻 1. Download OpenVPN
-
-- Windows: [Download OpenVPN GUI](https://openvpn.net/community-downloads/)
+Most **Egyptian ISPs** block or limit **voice traffic**, which breaks in-game comms and VoIP services.
+This OpenVPN profile routes your connection through a voice-friendly server so voice chat works without interruptions.
 
 ---
 
-### 📁 2. Import the Config
+## 📦 What’s Included
 
-- Open the OpenVPN app
-- Click **Import Profile**
-- Select `Valorant .ovpn` from this repo
+* **Config File:** \`Valorant.ovpn\` – a ready-to-use OpenVPN config
+* **Privacy:** No logs, no tracking, no unnecessary modules
+* **Compatibility:** Works with any application that uses voice chat
 
 ---
 
-### ✅ 3. Connect
+## ⚙️ Setup Guide
 
-- Hit the **Connect** button
-- Wait for "Connected" status
-- Launch your game or app and enjoy working voice chat!
+### 1. 📥 Install OpenVPN
+
+Windows: [https://openvpn.net/community-downloads/](https://openvpn.net/community-downloads/)
+
+***
+
+### 2. 📝 Import the Config
+
+* Open **OpenVPN**
+* Choose **Import Profile**
+* Select the \`Valorant.ovpn\` file from this repository
+
+***
+
+### 3. ▶️ Connect
+
+* Press **Connect**
+* Wait for the “Connected” status
+* Open your game/app and enjoy working voice chat!
+
+---
+
+## 📺 Full Tutorial
+
+You can follow the full video guide here:
+**[Full Video Guide](https://www.youtube.com/watch?v=e1cboGGgTts)**
 
 ---
 
 ## 🛠 Troubleshooting
 
-> Having issues? Try these:
+* **Voice still broken?** Restart the game/app after connecting.
+* **Slow speed?** Check your connection with:
 
-- ❌ Voice still not working? Restart the app/game after connecting.
-- 📡 Slow speed? Test your ping using `ping google.com` to check your base connection.
-- 🔐 Connection failed? Make sure your firewall/antivirus isn’t blocking OpenVPN.
-
----
-
-## 💬 Support / Help
-
-Open an [Issue](https://github.com/777nq/ValoVcEgypt/issues) if you need help or want to suggest improvements.
+    \`\`\`bash
+    ping google.com
+    \`\`\`
+* **Connection failing?** Make sure your firewall or antivirus isn’t blocking OpenVPN.
 
 ---
 
-## ☕ Credits
+## 💬 Support
 
-Maintained with ❤️ to help Egyptian gamers and streamers get their voices heard.
-
-> Safe. Free. Open source.
+For help or suggestions, open an Issue:
+[Open a GitHub Issue](https://github.com/777nq/ValoVcEgypt/issues)
 
 ---
 
-## 📢 Disclaimer
+## ✨ Credits
 
-This tool is provided for educational and personal use only.  
-Use at your own risk. We do not promote bypassing rules in any game or app.
+Created to help Egyptian players and streamers get stable, working voice chat.
+Completely free and open source.
 
+---
+
+## ⚠️ Disclaimer
+
+For personal and educational use only.
+Use responsibly and follow the rules of any game or platform you use this with.
